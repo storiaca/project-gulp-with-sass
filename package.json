@@ -1,0 +1,29 @@
+{
+  "name": "project-gulp-with-sass",
+  "version": "1.0.0",
+  "description": "Gulp with sass and bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/storiaca/project-gulp-with-sass.git"
+  },
+  "keywords": [
+    "gulp",
+    "sass",
+    "bootstrap"
+  ],
+  "author": "Aleksandar Ristic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/storiaca/project-gulp-with-sass/issues"
+  },
+  "homepage": "https://github.com/storiaca/project-gulp-with-sass#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0"
+  }
+}
